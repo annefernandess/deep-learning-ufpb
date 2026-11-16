@@ -1,0 +1,16 @@
+tipo,indice_teste,classe_verdadeira,classe_predita,confianca_predita,canais_visualizados
+mapa_de_ativacao,235,airplane,airplane,0.982204,"19,0,58,28"
+mapa_de_ativacao,7876,automobile,automobile,0.996329,"26,18,27,54"
+mapa_de_ativacao,3908,bird,bird,0.941802,"19,2,26,1"
+mapa_de_ativacao,9228,cat,cat,0.824480,"26,43,30,27"
+mapa_de_ativacao,2655,deer,deer,0.972316,"28,0,58,19"
+correta,235,airplane,airplane,0.982204,
+correta,7876,automobile,automobile,0.996329,
+correta,3908,bird,bird,0.941802,
+correta,9228,cat,cat,0.824480,
+correta,2655,deer,deer,0.972316,
+incorreta,7825,cat,frog,0.988926,
+incorreta,3995,horse,truck,0.984509,
+incorreta,2405,cat,frog,0.980950,
+incorreta,9170,airplane,truck,0.972697,
+incorreta,889,deer,frog,0.972320,
