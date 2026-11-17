@@ -1,6 +1,6 @@
 # deep-learning-ufpb
 
-Resoluções da lista de exercícios de Aprendizado Profundo (2026.2, Prof. Tiago Maritan, UFPB). Enunciado em [docs/DL_Lista_de_Exercicios.pdf](docs/DL_Lista_de_Exercicios.pdf).
+Resoluções da lista de exercícios de Aprendizado Profundo (2026.2, Prof. Tiago Maritan, UFPB). Enunciado e Slides em [docs/](docs/).
 
 ## Estrutura
 
